@@ -15,8 +15,8 @@ El trabajo aborda la resolución de la ecuación matricial no lineal $F(X) = X^{
 ##  Estructura del Repositorio
 * `/codigo`: Contiene los scripts desarrollados en MATLAB.
   * `Newton_matrcial.m`: Implementación del método estándar para matrices cuadradas.
-  * `Newton_No_Cuadrado.m`: Variación para matrices no cuadradas (Moore-Penrose).
-  * `planodinam.m`: Script para la generación de planos dinámicos fractales.
+  * `Newton_Pseudoinversa.m`: Variación para matrices no cuadradas (Moore-Penrose).
+  * `trabajo_resonum.xml`: Archivo matlab con pruebas hechas sobre el código anterior. 
 * `/docs`: Contiene la memoria completa del proyecto en formato PDF (`Trabajo_Resonum.pdf`) con todas las deducciones matemáticas y tablas de resultados.
 
 ##  Uso rápido de los scripts (MATLAB)
