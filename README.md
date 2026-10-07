@@ -2,7 +2,6 @@
 
 Este repositorio contiene la implementación algorítmica y el estudio teórico del **Método de Newton aplicado a la inversión de matrices**, desarrollado como proyecto de la asignatura Resolución Numérica (Doble Grado en Matemáticas e Ingeniería Informática, Universitat Politècnica de València).
 
-**Calificación obtenida:** 10/10 
 
 ##  Descripción del Proyecto
 El trabajo aborda la resolución de la ecuación matricial no lineal $F(X) = X^{-1} - A = 0$ mediante métodos iterativos. Se ha programado en MATLAB y estructurado en varias fases de análisis matemático y computacional:
